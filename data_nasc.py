@@ -1,0 +1,6 @@
+input('===== DESAFIO 02 =====')
+dia = input('Dia = ')
+mes = input('Mês = ')
+ano_nas = input('Ano = ')
+atual = int(2023)
+print(f'Você nasceu no dia {dia} de {mes} de {ano_nas}.')
